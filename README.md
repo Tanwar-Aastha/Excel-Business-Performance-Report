@@ -15,10 +15,11 @@ To develop a set of structured, interactive Excel reports for **AtliQ Hardwares*
 Each report aims to empower decision-makers with data clarity and actionable insights.
 
 ## 📁 Key Reports
-### 1. 🧑‍💼 Customer Performance Report
+### 1. Customer Performance Report
 #### Overview
 - Evaluated customer-wise sales from FY 2019 to Fiscal Year 2021.
 - Tracked growth rates, uncovering rapid expansion across retail and digital channels.
+![image](https://github.com/user-attachments/assets/5c48fa9a-b5b0-4a58-865e-40304e66c9a8)
 
 |Key Insights| Recomendations|
 |-------------|----------|
@@ -27,9 +28,11 @@ Each report aims to empower decision-makers with data clarity and actionable ins
 #### Impact
 - These findings help in customer segmentation for strategic engagement — distinguishing high-growth clients from flat performers.
 
-### 2. 🌍 Market Performance vs Sales Targets
+### 2. Market Performance vs Sales Targets
 #### Overview
 - Compared actual sales to FY 2021 market targets across 20+ countries.
+![image](https://github.com/user-attachments/assets/4984c083-5e50-4b3a-8674-4d56060ffaa2)
+
 
 |Key Insights| Recomendations|
 |------------|--------------|
@@ -39,9 +42,11 @@ Each report aims to empower decision-makers with data clarity and actionable ins
 - Highlights misalignment between forecasting and execution.
 - Indicates potential overestimation of capacity in emerging or volatile markets.
 
-### 3. 📆 Profit & Loss Report – Monthly
+### 3. Profit & Loss Report – Monthly
 #### Overview
 - Captured Net Sales, COGS, and Gross Margins across fiscal months and quarters from Fiscal Year 2019–2021.
+![image](https://github.com/user-attachments/assets/e5ea6949-380d-49f1-9656-dfb00726924a)
+![image](https://github.com/user-attachments/assets/5e79fb4a-5c9d-41a5-9cc7-24454105f6d1)
 
 |Key Insights| Recomendations|
 |----------|-------------|
@@ -51,9 +56,10 @@ Each report aims to empower decision-makers with data clarity and actionable ins
 - Confirms seasonal sales peaks and validates pricing efficiency via stable GM%.
 - Offers clarity on the cost structure’s scalability under volume pressure.
 
-### 4. 🗺️ Profit & Loss Report – By Market
+### 4. Profit & Loss Report – By Market
 #### Overview
 - Broke down FY 2021 financial performance (Net Sales, COGS, GM%) by country.
+![image](https://github.com/user-attachments/assets/6f02a234-0822-4ae6-9d64-6bf60d663cd9)
 
 |Key Insights|Recommendations|
 |-------------|------------|
@@ -79,3 +85,11 @@ Each report aims to empower decision-makers with data clarity and actionable ins
 - Took a systematic approach to identify gaps, risks, and opportunities.
 - Built reports that answer real stakeholder questions, not just display data.
 
+## Conclusion
+This Excel-driven reporting project demonstrates how structured thinking and thoughtful design can turn spreadsheets into strategic tools. It helps bridge the gap between raw data and decision-making, enabling AtliQ Hardwares to act faster and more confidently. 
+
+## Report Links
+- [Customer Performance Report](https://github.com/Tanwar-Aastha/Excel-Business-Performance-Report/blob/main/Customer%20Sales%20Report.pdf)
+- [Market Performance an Sales Target Comparison Report](https://github.com/Tanwar-Aastha/Excel-Business-Performance-Report/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf)
+- [Profit and Loss (P & L) report by Market](https://github.com/Tanwar-Aastha/Excel-Business-Performance-Report/blob/main/P%20%26%20L%20Statements%20by%20Market.pdf)
+- [Profit and Loss (P & L) Reports by Fiscal Year and Months](https://github.com/Tanwar-Aastha/Excel-Business-Performance-Report/blob/main/P%20%26%20l%20Statements%20by%20Months.pdf)
